@@ -1,5 +1,5 @@
 import java.util.*;
-public class week0_linearsearch{
+public class week1_linearsearch{
     public static void main(String args[]){
         int t;
         Scanner in =new Scanner(System.in);

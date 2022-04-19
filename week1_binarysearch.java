@@ -1,5 +1,5 @@
 import java.util.*;
-public class week0_binarysearch{
+public class week1_binarysearch{
     public static void main(String args[]){
         int t;
         Scanner in =new Scanner(System.in);
