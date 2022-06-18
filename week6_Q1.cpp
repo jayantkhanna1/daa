@@ -1,5 +1,5 @@
 #include<iostream>
-# include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 void dfs(int s,int d,int v,vector<int> *graph)
